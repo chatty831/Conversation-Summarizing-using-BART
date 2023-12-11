@@ -1,0 +1,8 @@
+transformers
+numpy
+rouge-score
+py7zr
+datasets
+accelerate
+nltk
+tkinterdnd2
