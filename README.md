@@ -5,7 +5,7 @@ This Conversation Summarizer utilizes a fine-tuned BART Large Language Model dev
 # Getting Predictions
 To leverage the trained model for predictions, follow these steps:
 
-- Download the main model safetensors file from this [drive](https://www.google.com) link and place the downloaded file in the /model folder.
+- Download the main model safetensors file from this [drive]([https://www.google.com](https://drive.google.com/file/d/1pKUjYnNJxzvUlzfu-vzVTaLSiwdyDWWg/view?usp=sharing)) link and place the downloaded file in the /model folder.
 
 - Run the gui.py file to access a user-friendly GUI for easy model predictions.
 
